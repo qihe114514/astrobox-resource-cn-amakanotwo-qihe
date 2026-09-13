@@ -15,7 +15,7 @@
       "media/xiaomi_band_10-2026-09-12-23-49-16.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/QQ20260913-123324.png",
+    "cover": "media/头头图.jpg",
     "author": [
       {
         "name": "1146298",
@@ -98,6 +98,14 @@
     }
   },
   "ext": {
-    "enableAstroBoxCreatorFeatures": true
+    "enableAstroBoxCreatorFeatures": true,
+    "bundledResources": {
+      "required": [
+        {
+          "type": "plugin",
+          "name": "甜蜜女友2导入器"
+        }
+      ]
+    }
   }
 }
