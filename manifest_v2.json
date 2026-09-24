@@ -27,74 +27,89 @@
     {
       "title": "官网",
       "url": "https://miband.qihe0507.top/",
-      "icon": "Aperture"
+      "icon": "aperture"
     }
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-红米手表5-release-1.0.0-xmrw5.rpk",
-      "versionCode": 106
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-红米手表5-release-1.4.0-xmrw5.rpk",
+      "versionCode": 116
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-红米手表5-release-1.0.0-xmrw5xring.rpk",
-      "versionCode": 106
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-红米手表5-release-1.4.0-xmrw5xring.rpk",
+      "versionCode": 116
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-红米手表6-release-1.0.0-xmrw6.rpk",
-      "versionCode": 107
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-红米手表6-release-1.4.0-xmrw6.rpk",
+      "versionCode": 117
     },
     "xmws5": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-小米手表S5-release-1.0.0-xmws5.rpk",
-      "versionCode": 110
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手表S5-release-1.4.0-xmws5.rpk",
+      "versionCode": 120
     },
     "xmws4": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-小米手表S4-release-1.0.0-xmws4.rpk",
-      "versionCode": 109
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手表S4-release-1.4.0-xmws4.rpk",
+      "versionCode": 119
     },
     "xmws4xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-小米手表S4-release-1.0.0-xmws4xring.rpk",
-      "versionCode": 109
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手表S4-release-1.4.0-xmws4xring.rpk",
+      "versionCode": 119
     },
     "xmws441": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-小米手表S4-release-1.0.0-xmws441.rpk",
-      "versionCode": 109
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手表S4-release-1.4.0-xmws441.rpk",
+      "versionCode": 119
     },
     "xmws3": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-红米手表6-release-1.0.0-xmws3.rpk",
-      "versionCode": 107
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手表S3-release-1.4.0-xmws3.rpk",
+      "versionCode": 118
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-小米手环9-release-1.0.0-xmb9.rpk",
-      "versionCode": 102
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手环9-release-1.4.0-xmb9.rpk",
+      "versionCode": 111
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-小米手环9Pro-release-1.0.0-xmb9p.rpk",
-      "versionCode": 103
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手环9Pro-release-1.4.0-xmb9p.rpk",
+      "versionCode": 112
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-小米手环10Pro-release-1.0.0-xmb10p.rpk",
-      "versionCode": 105
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手环10Pro-release-1.4.0-xmb10p.rpk",
+      "versionCode": 114
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-小米手环10-release-1.0.0-xmb10nfc.rpk",
-      "versionCode": 104
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手环10-release-1.4.0-xmb10nfc.rpk",
+      "versionCode": 113
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/甜蜜女友2-小米手环10-release-1.0.0-xmb10.rpk",
-      "versionCode": 104
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手环10-release-1.4.0-xmb10.rpk",
+      "versionCode": 113
+    },
+    "xmb11nfc": {
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手环11-release-1.4.0-xmb11nfc.rpk",
+      "versionCode": 115
+    },
+    "xmb11": {
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手环11-release-1.4.0-xmb11.rpk",
+      "versionCode": 115
+    },
+    "xmws541": {
+      "version": "1.4.0",
+      "file_name": "downloads/甜蜜女友2-小米手表S5-release-1.4.0-xmws541.rpk",
+      "versionCode": 120
     }
   },
   "ext": {
