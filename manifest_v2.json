@@ -26,90 +26,186 @@
   "links": [
     {
       "title": "官网",
-      "url": "https://miband.qihe0507.top/",
+      "url": "https://miband.qihe0507.top/amakano2",
       "icon": "aperture"
     }
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-红米手表5-release-1.4.0-xmrw5.rpk",
-      "versionCode": 116
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-红米手表5-release-2.1.0-xmrw5.rpk",
+      "versionCode": 207,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-红米手表5-release-1.4.0-xmrw5xring.rpk",
-      "versionCode": 116
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-红米手表5-release-2.1.0-xmrw5xring.rpk",
+      "versionCode": 207,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-红米手表6-release-1.4.0-xmrw6.rpk",
-      "versionCode": 117
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-红米手表6-release-2.1.0-xmrw6.rpk",
+      "versionCode": 208,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmws5": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手表S5-release-1.4.0-xmws5.rpk",
-      "versionCode": 120
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手表S5-release-2.1.0-xmws5.rpk",
+      "versionCode": 211,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmws4": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手表S4-release-1.4.0-xmws4.rpk",
-      "versionCode": 119
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手表S4-release-2.1.0-xmws4.rpk",
+      "versionCode": 210,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmws4xring": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手表S4-release-1.4.0-xmws4xring.rpk",
-      "versionCode": 119
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手表S4-release-2.1.0-xmws4xring.rpk",
+      "versionCode": 210,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmws441": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手表S4-release-1.4.0-xmws441.rpk",
-      "versionCode": 119
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手表S4-release-2.1.0-xmws441.rpk",
+      "versionCode": 210,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmws3": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手表S3-release-1.4.0-xmws3.rpk",
-      "versionCode": 118
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手表S3-release-2.1.0-xmws3.rpk",
+      "versionCode": 209,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmb9": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手环9-release-1.4.0-xmb9.rpk",
-      "versionCode": 111
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手环9-release-2.1.0-xmb9.rpk",
+      "versionCode": 202,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手环9Pro-release-1.4.0-xmb9p.rpk",
-      "versionCode": 112
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手环9Pro-release-2.1.0-xmb9p.rpk",
+      "versionCode": 203,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手环10Pro-release-1.4.0-xmb10p.rpk",
-      "versionCode": 114
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手环10Pro-release-2.1.0-xmb10p.rpk",
+      "versionCode": 205,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手环10-release-1.4.0-xmb10nfc.rpk",
-      "versionCode": 113
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手环10-release-2.1.0-xmb10nfc.rpk",
+      "versionCode": 204,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmb10": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手环10-release-1.4.0-xmb10.rpk",
-      "versionCode": 113
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手环10-release-2.1.0-xmb10.rpk",
+      "versionCode": 204,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手环11-release-1.4.0-xmb11nfc.rpk",
-      "versionCode": 115
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手环11-release-2.1.0-xmb11nfc.rpk",
+      "versionCode": 206,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmb11": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手环11-release-1.4.0-xmb11.rpk",
-      "versionCode": 115
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手环11-release-2.1.0-xmb11.rpk",
+      "versionCode": 206,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     },
     "xmws541": {
-      "version": "1.4.0",
-      "file_name": "downloads/甜蜜女友2-小米手表S5-release-1.4.0-xmws541.rpk",
-      "versionCode": 120
+      "version": "2.1.0",
+      "file_name": "downloads/甜蜜女友2-小米手表S5-release-2.1.0-xmws541.rpk",
+      "versionCode": 211,
+      "updatelogs": [
+        {
+          "version": "2.1.0",
+          "content": "！务必卸载后安装新版本！\n！务必卸载后安装新版本！\n\n1.0版本各种bug各位也都见到了，资源无法读取，剧情不完整\n这次2.0版本经过一个月的开发彻底完善了所有功能\n包括但不限于：\n1.完善好感度系统，选择角色线路更直观\n2.插件支持断点续传\n3.剧情完整\n5.增加攻略功能，直观看到如何推进剧情\n6.新增回想功能 等\n\n下一步的更新是增加“云存档”功能，敬请期待！"
+        }
+      ]
     }
   },
   "ext": {
