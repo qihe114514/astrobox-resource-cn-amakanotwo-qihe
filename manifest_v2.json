@@ -348,6 +348,9 @@
       "strategy": "prompt",
       "reason": "1.大幅优化了手环上的重启问题，实测环 10 上再多次读档都不会重启，硬要说的话在长时间游玩后打开 cg 鉴赏还是会重启，不过重启后再打开 cg 就行了\n2.优化了手环上插件推送时的重启，偶尔还是会重启但比以前好很多\n3.补全部分剧情节点\n4.公共资源包内置包体"
     },
+    "nsfw": {
+      "reason": "色情或带有性暗示的内容"
+    },
     "enableAstroBoxCreatorFeatures": true,
     "bundledResources": {
       "required": [
