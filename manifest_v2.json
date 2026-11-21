@@ -40,8 +40,12 @@
     "xmrw5": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-红米手表5-release-3.3.1.rpk",
-      "versionCode": 249,
+      "versionCode": 270,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -59,8 +63,12 @@
     "xmrw5xring": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-红米手表5-release-3.3.1.rpk",
-      "versionCode": 249,
+      "versionCode": 270,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -78,8 +86,12 @@
     "xmrw6": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-红米手表6-release-3.3.1.rpk",
-      "versionCode": 250,
+      "versionCode": 271,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -97,8 +109,12 @@
     "xmws5": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手表S5-release-3.3.1.rpk",
-      "versionCode": 253,
+      "versionCode": 274,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -116,8 +132,12 @@
     "xmws4": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手表S4-release-3.3.1.rpk",
-      "versionCode": 252,
+      "versionCode": 273,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -135,8 +155,12 @@
     "xmws4xring": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手表S4-release-3.3.1.rpk",
-      "versionCode": 252,
+      "versionCode": 273,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -154,8 +178,12 @@
     "xmws441": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手表S4-release-3.3.1.rpk",
-      "versionCode": 252,
+      "versionCode": 273,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -173,8 +201,12 @@
     "xmws3": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手表S3-release-3.3.1.rpk",
-      "versionCode": 251,
+      "versionCode": 272,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -192,8 +224,12 @@
     "xmb9": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手环9-release-3.3.1.rpk",
-      "versionCode": 244,
+      "versionCode": 265,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -211,8 +247,12 @@
     "xmb9p": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手环9Pro-release-3.3.1.rpk",
-      "versionCode": 245,
+      "versionCode": 266,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -230,8 +270,12 @@
     "xmb10p": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手环10Pro-release-3.3.1.rpk",
-      "versionCode": 247,
+      "versionCode": 268,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -249,8 +293,12 @@
     "xmb10nfc": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手环10-release-3.3.1.rpk",
-      "versionCode": 246,
+      "versionCode": 267,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -268,8 +316,12 @@
     "xmb10": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手环10-release-3.3.1.rpk",
-      "versionCode": 246,
+      "versionCode": 267,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -287,8 +339,12 @@
     "xmb11nfc": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手环11-release-3.3.1.rpk",
-      "versionCode": 248,
+      "versionCode": 269,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -306,8 +362,12 @@
     "xmb11": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手环11-release-3.3.1.rpk",
-      "versionCode": 248,
+      "versionCode": 269,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -325,8 +385,12 @@
     "xmws541": {
       "version": "3.3.1",
       "file_name": "downloads/甜蜜女友2-小米手表S5-release-3.3.1.rpk",
-      "versionCode": 253,
+      "versionCode": 274,
       "updatelogs": [
+        {
+          "version": "3.3.1",
+          "content": "1.尝试优化选择好感度时的闪退问题\n2.修复了Pro系列返回按钮触摸范围过小的问题"
+        },
         {
           "version": "3.3.0",
           "content": "1.插件重构，改用新的v4 api，并实现了html前端页面\n2.修复cg列表无法查看所有章节\n3.大幅重构了插件与手环的后端传输逻辑，连接设备，传输资源更稳定\n4.尝试修复了共通线剧情不完整的问题\n5.修复了部分剧情无法解锁的问题"
@@ -343,11 +407,6 @@
     }
   },
   "ext": {
-    "forceUpdate": {
-      "version": "3.3.1",
-      "strategy": "prompt",
-      "reason": "1.大幅优化了手环上的重启问题，实测环 10 上再多次读档都不会重启，硬要说的话在长时间游玩后打开 cg 鉴赏还是会重启，不过重启后再打开 cg 就行了\n2.优化了手环上插件推送时的重启，偶尔还是会重启但比以前好很多\n3.补全部分剧情节点\n4.公共资源包内置包体"
-    },
     "nsfw": {
       "reason": "色情或带有性暗示的内容"
     },
